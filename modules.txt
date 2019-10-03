@@ -1,0 +1,2 @@
+# Use npm install discord.js in command prompt or terminal. #
+discord.js 
