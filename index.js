@@ -2,6 +2,9 @@
 ## THIS IS ENTIRELY EDITABLE TO YOUR DESIRE ##
 ## REPLACE 'TOKEN' in var token to your bot's token ##
 
+## Prefix to run bot ##
+## Open cmd or terminal & type node . ##
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
